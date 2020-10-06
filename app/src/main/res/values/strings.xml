@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">primera_evalucion</string>
+    <string name="info" />
+    <string name="titular" />
+    <string name="apell" />
+    <string name="num_tar" />
+    <string name="dd" />
+    <string name="mm" />
+    <string name="cod" />
+    <string name="direccion" />
+    <string name="direcedit" />
+    <string name="ciudad" />
+    <string name="estado" />
+    <string name="codpos" />
+    <string name="formulario_de_tarjeta" />
+</resources>
